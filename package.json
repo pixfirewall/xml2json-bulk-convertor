@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "xml to json bulk convertor",
   "main": "index.js",
-
-	"keywords": [],
+  "keywords": [],
   "author": "pixfirewall@msn.com",
   "license": "ISC",
   "dependencies": {
