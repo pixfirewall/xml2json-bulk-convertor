@@ -1,0 +1,14 @@
+{
+  "name": "xml-to-json",
+  "version": "1.0.0",
+  "description": "xml to json bulk convertor",
+  "main": "index.js",
+
+	"keywords": [],
+  "author": "pixfirewall@msn.com",
+  "license": "ISC",
+  "dependencies": {
+    "better-queue": "^3.8.10",
+    "xml-js": "^1.6.11"
+  }
+}
